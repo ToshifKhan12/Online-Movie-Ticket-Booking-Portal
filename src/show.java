@@ -98,7 +98,7 @@ class showS2T1 extends movie implements screen2, timeslot1{
 		director = Mdirector;
 	}
 }
-
+//.
 class showS2T2 extends movie implements screen2, timeslot2{
 	int booked;
 	

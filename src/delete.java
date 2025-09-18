@@ -18,7 +18,7 @@ public class delete extends HttpServlet {
          
         System.out.println("movie: " + movieName);
  
-        // do some processing here...
+        // do some processing here.....
         try
         {
           // create a mysql database connection

@@ -13,3 +13,4 @@ interface screen3{
 	int num=3;
 	int capacity = 200;
 }
+//.

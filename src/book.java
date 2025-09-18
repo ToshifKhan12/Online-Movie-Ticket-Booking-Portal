@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 @WebServlet("/book")
-public class book extends HttpServlet {
+public class book extends HttpServlet{
 	static int cost=0;
 	protected void doPost(HttpServletRequest request,
             HttpServletResponse response) throws ServletException, IOException {

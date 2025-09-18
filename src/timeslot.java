@@ -13,3 +13,4 @@ interface timeslot3{
 	int startTime = 5;
 	int endTime = 9;
 }
+//.

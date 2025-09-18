@@ -25,7 +25,7 @@ public class food extends HttpServlet {
         else if(foodId.equals("food3")){
         	foodcost=200;
         }
-        // do some processing here...
+        // do some processing here....
         try
         {
         	int total= foodcost+book.cost;

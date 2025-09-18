@@ -5,3 +5,4 @@ abstract public class movie {
 	int duration;
 	String director;
 }
+//.

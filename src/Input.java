@@ -23,7 +23,7 @@ public class Input extends HttpServlet {
         System.out.println("movie: " + movieName);
         System.out.println("genere: " + genere);
  
-        // do some processing here...
+        // do some processing here......
         try
         {
           // create a mysql database connection

@@ -40,7 +40,7 @@ public class schedule extends HttpServlet {
           preparedStmt.setInt(3, Integer.parseInt(slot));
           preparedStmt.setInt(4, 0);
 
-          // execute the preparedstatement
+          // execute the preparedstatement.
           preparedStmt.execute();
           
           conn.close();
