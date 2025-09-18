@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse">
   <div class="container">
     <div class="navbar-header">
-      <a class="navbar-brand" href="user.jsp" style="font-size: 40px;"><b>LNM Talkies</b></a>
+      <a class="navbar-brand" href="user.jsp" style="font-size: 39px;"><b>LNM Talkies</b></a>
     </div>
   </div>
 </nav>
