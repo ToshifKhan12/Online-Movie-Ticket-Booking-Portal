@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 @WebServlet("/login")
-public class admin extends HttpServlet {
+public class admin extends HttpServle {
 
     protected void doPost(HttpServletRequest request,
             HttpServletResponse response) throws ServletException, IOException {
